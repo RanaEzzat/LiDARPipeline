@@ -5,7 +5,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Paths to original data
-BASE_PATH = r"C:\Users\waedk\Downloads\CARLA_0.9.15\WindowsNoEditor\PythonAPI\examples\_out"
+BASE_PATH = r"C:\Users\<username>\Downloads\CARLA_0.9.15\WindowsNoEditor\PythonAPI\examples\_out"
 POINTS_PATH = os.path.join(BASE_PATH, "points")  # Original .npy Lidar points
 IMAGES_PATH = os.path.join(BASE_PATH, "images")  # Original .png Lidar images
 
